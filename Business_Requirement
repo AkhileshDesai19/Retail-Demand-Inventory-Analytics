@@ -31,15 +31,15 @@ Support data-driven decision making
 
 # EDA 
 How many records are in the dataset?
-How many stores, products, and categories are there?
-What is the date range?
-Are there missing values?
-Are there duplicate records?
-How are sales distributed?
-How is inventory distributed?
-Which categories have the most products?
-Which stores generate the highest volume of sales?
-Are there any obvious outliers?
+How many stores, products, categories, and regions are there?
+What is the date range covered by the dataset?
+How are sales distributed across stores?
+How is inventory distributed across stores?
+Which product categories have the highest inventory levels?
+Which stores generate the highest sales volume?
+What is the average selling price across product categories?
+How are promotions distributed throughout the dataset?
+Are there any unusual patterns or outliers in sales or inventory?
 
 # KPIs
 Total Revenue
