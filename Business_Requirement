@@ -1,0 +1,79 @@
+# Project Title
+
+Retail Demand & Inventory Analytics: Optimizing Inventory and Sales Performance.
+
+#  Problem
+
+A retail company operates multiple stores selling products across different categories. The company is experiencing challenges in managing inventory efficiently. 
+Some products frequently run out of stock, leading to missed sales opportunities, while others remain overstocked, increasing storage costs and tying up capital.
+Additionally, management lacks visibility into how promotions, pricing, seasonal trends, and store performance influence product demand. Without data-driven insights,
+inventory replenishment and business decisions are often reactive rather than strategic.
+The company wants to analyze historical inventory and sales data to improve inventory planning, optimize sales performance, and support better business decision-making.
+
+# Project Objective
+
+The primary objective of this project is to analyze historical retail sales and inventory data to identify demand patterns, evaluate inventory performance, and uncover actionable business insights.
+The analysis aims to:
+Improve inventory management by identifying stockout and overstock situations.
+Evaluate sales performance across stores, products, and categories.
+Measure the impact of promotions and seasonal factors on demand.
+Support inventory replenishment decisions using historical trends.
+Provide an interactive dashboard to help stakeholders monitor key business metrics.
+
+# Business Goals
+Reduce stockouts
+Reduce excess inventory
+Improve inventory turnover
+Increase sales through better planning
+Identify high-performing and low-performing products
+Support data-driven decision making
+
+
+# EDA 
+How many records are in the dataset?
+How many stores, products, and categories are there?
+What is the date range?
+Are there missing values?
+Are there duplicate records?
+How are sales distributed?
+How is inventory distributed?
+Which categories have the most products?
+Which stores generate the highest volume of sales?
+Are there any obvious outliers?
+
+# KPIs
+Total Revenue
+Total Units Sold
+Average Selling Price
+Inventory Turnover Ratio
+Stockout Rate
+Promotion Sales Lift (if the dataset supports it)
+Best Performing Store
+Best Performing Product Category
+
+
+# Business Analysis
+
+# Inventory
+Which products are frequently at risk of stockout?
+Which products are consistently overstocked?
+Which stores require more frequent inventory replenishment?
+
+# Sales
+Which products generate the highest revenue?
+Which product categories contribute the most revenue?
+Which stores perform the best and worst?
+
+# Promotions
+Do promotions significantly increase sales?
+Which categories benefit the most from promotions?
+
+# Pricing & Demand
+Does competitor pricing appear to influence demand?
+
+# Seasonality
+How do holidays and seasons affect demand?
+
+# Recommendations
+Which products should be prioritized for restocking?
+Which products or categories should have their inventory reduced?
